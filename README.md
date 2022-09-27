@@ -1,5 +1,6 @@
 ##### Hi there 👋 i am Patrick Wambua,a mobile and web developer based in Bungoma Kenya.
 ##### I am currently learning :sparkles: **Hypertext Preprocessor** Scripting language at Loanspur LTD. 🌱 
+https://github.com/PatrickNthiwa/PatrickNthiwa.wiki.git
 
 <!--
 **PatrickNthiwa/PatrickNthiwa** is a ✨ _special_ ✨ repository because its `README.md`![images](https://user-images.githubusercontent.com/102645955/192632515-749815f6-2f27-48f8-8240-7e892edd9003.png)
