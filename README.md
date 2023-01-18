@@ -1,5 +1,6 @@
-##### Hi there 👋 i am Patrick Wambua,a mobile and web developer based in Bungoma Kenya.
-##### I am currently learning :sparkles: **Hypertext Preprocessor** Scripting language at Loanspur LTD. 🌱 
+##### Hi there 👋 i am Patrick Wambua,a Flutter Mobile and PHP Web Developer based in Bungoma Kenya.
+##### I am love exploring new tech in the market especially :sparkles: **Hypertext Preprocessor** Scripting language. 🌱 
+####  🔭 I’m currently working on laravel intranet.
 ![images (1)](https://user-images.githubusercontent.com/102645955/192634086-37652080-c5dc-4ce7-94cf-8d9c476dab1d.png)
 
 
@@ -10,7 +11,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
