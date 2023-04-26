@@ -1,6 +1,5 @@
-##### Hi there 👋 i am Patrick Wambua,a Flutter Mobile and PHP Web Developer based in Bungoma Kenya.
-##### I am love exploring new tech in the market especially :sparkles: **Hypertext Preprocessor** Scripting language. 🌱 
-####  🔭 I’m currently working on laravel intranet.
+##### Hi there 👋 i am Patrick Wambua
+ 
 ![images (1)](https://user-images.githubusercontent.com/102645955/192634086-37652080-c5dc-4ce7-94cf-8d9c476dab1d.png)
 
 
