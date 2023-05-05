@@ -1,4 +1,6 @@
-##### Hi there 👋 i am Patrick Wambua
+<div>
+  <h1 style="align:center;">Hi there, am Patrick Wambua.</h1>
+</div>
  
 ![images (1)](https://user-images.githubusercontent.com/102645955/192634086-37652080-c5dc-4ce7-94cf-8d9c476dab1d.png)
 
