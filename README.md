@@ -1,9 +1,11 @@
-<div style="text-align:center;">
-  <h3>Hi there, am Patrick Wambua.</h3>
-</div>
-<div style="text-align:center;">
-  <h4>A Fullstack Web Developer.</h4>
-</div>
+<center>
+  <div>
+    <h3>Hi there, am Patrick Wambua.</h3>
+  </div>
+  <div>
+    <h4>A Fullstack Web Developer.</h4>
+  </div>
+</center>
 
 
  
