@@ -67,7 +67,7 @@
   
   
   
-  ![alt text](https://user-images.githubusercontent.com/1234567/image-name.png)
+  ![alt text](![image](https://user-images.githubusercontent.com/102645955/236470672-b106c179-8a64-46e3-a50d-834d4266ee54.png))
 
 Here are some ideas to get you started:
 
