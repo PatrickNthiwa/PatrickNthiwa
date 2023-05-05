@@ -2,7 +2,7 @@
   <h2 align="center" dir="auto">Hi there,😄 am Patrick Wambua.</h2>
 </div>
 <div style="text-align:center;">
-  <h3>A Fullstack Web Developer.</h3>
+  <h3 align="center" dir="auto">A Fullstack Web Developer.</h3>
 </div>
 
 
