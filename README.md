@@ -54,7 +54,9 @@
 &nbsp;
 
 <div style="text-align:center;">
-  <h3  dir="auto">I'm a  passionate Software Developer and the Founder of Amaya Africa.</h3> <a href="https://www.youtube.com/playlist?list=PLRA4oeXUeKuSQBYulVLkGB7XMunn3OyY0" rel="nofollow"><img align="left" alt="MySQL" width="26px" src="https://user-images.githubusercontent.com/102645955/236470824-acabcab4-ef44-40a3-a93c-8ec9c48cbc5a.png" style="max-width: 100%;"></a>
+  <h3  dir="auto">I'm a  passionate Software Developer and the Founder of Amaya Africa.</h3>
+  
+  ![alt text](https://user-images.githubusercontent.com/102645955/236470824-acabcab4-ef44-40a3-a93c-8ec9c48cbc5a.png)
 </div>
 
 
