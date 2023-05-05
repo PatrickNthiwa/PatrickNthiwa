@@ -1,5 +1,5 @@
 <div style="text-align:center;">
-  <h2>Hi there,😄 am Patrick Wambua.</h2>
+  <h2 align="center" dir="auto">Hi there,😄 am Patrick Wambua.</h2>
 </div>
 <div style="text-align:center;">
   <h3>A Fullstack Web Developer.</h3>
