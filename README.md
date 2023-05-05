@@ -15,8 +15,6 @@
 
 &nbsp;
 &nbsp;
-
- <hr>
   <h4>My Day.</h4>
 <!-- ![images (1)](https://user-images.githubusercontent.com/102645955/192634086-37652080-c5dc-4ce7-94cf-8d9c476dab1d.png) -->
 <div>
@@ -27,8 +25,7 @@
 </div>
 &nbsp;
 &nbsp;
- 
- <hr>
+
  <h4>Explore my profiles.</h4>
  &nbsp;
  &nbsp;
@@ -50,7 +47,6 @@
 
 &nbsp;
 
- <hr>
 <div style="text-align:center;">
  <h4>Languages.</h4>
 </div>
