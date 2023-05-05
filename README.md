@@ -33,6 +33,9 @@
 <p></p>
 
 
+&nbsp;
+&nbsp;
+
 <div style="text-align:center;">
   <h4>Languages.</h4>
 </div>
@@ -47,8 +50,11 @@
 <a href="https://www.youtube.com/playlist?list=PLRA4oeXUeKuSQBYulVLkGB7XMunn3OyY0" rel="nofollow"><img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" style="max-width: 100%;"></a>
 <a href="https://www.youtube.com/playlist?list=PLRA4oeXUeKuSQBYulVLkGB7XMunn3OyY0" rel="nofollow"><img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" style="max-width: 100%;"></a></p>
 
+&nbsp;
+&nbsp;
+
 <div style="text-align:center;">
-  <h3  dir="auto">I'm a  passionate Software Developer and the Founder of Amaya Africa. ![images (1)](https://user-images.githubusercontent.com/102645955/192634086-37652080-c5dc-4ce7-94cf-8d9c476dab1d.png) </h3>
+  <h3  dir="auto">I'm a  passionate Software Developer and the Founder of Amaya Africa.</h3> ![images (1)](https://user-images.githubusercontent.com/102645955/192634086-37652080-c5dc-4ce7-94cf-8d9c476dab1d.png) 
 </div>
 <!--
 **PatrickNthiwa/PatrickNthiwa** is a ✨ _special_ ✨ repository because its `README.md`![images](https://user-images.githubusercontent.com/102645955/192632515-749815f6-2f27-48f8-8240-7e892edd9003.png)
