@@ -1,9 +1,14 @@
 <div style="text-align:center;">
   <h2 align="center" dir="auto">Hi there,😄 am Patrick Wambua.</h2>
 </div>
-<div style="text-align:center;">
-  <h3 align="center" dir="auto">A Fullstack Web Developer.</h3>
+<div align="center">
+  <h3  dir="auto">I'm a  passionate Software Developer and the Founder of Amaya Africa.&nbsp;
+&nbsp;
+<img src="https://user-images.githubusercontent.com/102645955/236472966-a751b605-79ca-47e5-a797-1af115c8dc58.png">
+</h3>
+  
 </div>
+
 
 &nbsp;
 &nbsp;
@@ -53,13 +58,7 @@
 &nbsp;
 &nbsp;
 
-<div align="center">
-  <h3  dir="auto">I'm a  passionate Software Developer and the Founder of Amaya Africa.&nbsp;
-&nbsp;
-<img src="https://user-images.githubusercontent.com/102645955/236472966-a751b605-79ca-47e5-a797-1af115c8dc58.png">
-</h3>
-  
-</div>
+
 
 
   
