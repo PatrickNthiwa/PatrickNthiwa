@@ -54,11 +54,28 @@
 &nbsp;
 
 <div style="text-align:center;">
-  <h3  dir="auto">I'm a  passionate Software Developer and the Founder of Amaya Africa.</h3> 
+  <h3  dir="auto">I'm a  passionate Software Developer and the Founder of Amaya Africa.</h3> <a href="https://www.youtube.com/playlist?list=PLRA4oeXUeKuSQBYulVLkGB7XMunn3OyY0" rel="nofollow"><img align="left" alt="MySQL" width="26px" src="https://user-images.githubusercontent.com/102645955/236470824-acabcab4-ef44-40a3-a93c-8ec9c48cbc5a.png" style="max-width: 100%;"></a>
 </div>
 
 
-  ![alt text](https://user-images.githubusercontent.com/102645955/236470824-acabcab4-ef44-40a3-a93c-8ec9c48cbc5a.png)
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
 <!--
 **PatrickNthiwa/PatrickNthiwa** is a ✨ _special_ ✨ repository because its `README.md`![images](https://user-images.githubusercontent.com/102645955/192632515-749815f6-2f27-48f8-8240-7e892edd9003.png)
  (this file) appears on your GitHub profile.
@@ -68,8 +85,8 @@
   </a>
   
   
-  
-  ![alt text](![image](https://user-images.githubusercontent.com/102645955/236470672-b106c179-8a64-46e3-a50d-834d4266ee54.png))
+  ![alt text](https://user-images.githubusercontent.com/102645955/236470824-acabcab4-ef44-40a3-a93c-8ec9c48cbc5a.png)
+ 
 
 Here are some ideas to get you started:
 
