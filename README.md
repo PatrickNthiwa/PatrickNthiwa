@@ -2,7 +2,7 @@
   <h2 align="center" dir="auto">Hi there,😄 am Patrick Wambua.</h2>
 </div>
 <div style="text-align:center;">
-  <h2  dir="auto">I'm a  passionate Software Developer and the Founder of Amaya Africa.</h2>
+  <h3  dir="auto">I'm a  passionate Software Developer and the Founder of Amaya Africa.</h3>
 </div>
 
 <div align="center">&nbsp;
