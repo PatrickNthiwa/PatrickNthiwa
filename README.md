@@ -2,8 +2,14 @@
   <h3 style="align-content:center;">Hi there, am Patrick Wambua.</h3>
 </div>
  
-![images (1)](https://user-images.githubusercontent.com/102645955/192634086-37652080-c5dc-4ce7-94cf-8d9c476dab1d.png)
-
+<!-- ![images (1)](https://user-images.githubusercontent.com/102645955/192634086-37652080-c5dc-4ce7-94cf-8d9c476dab1d.png) -->
+<div>
+  <li>Working on Laravel Projects</li>
+   <li>Learning laravel sanctum,livewire and Api developments.</li>
+   <li>Looking for laravel.php.Javascript amd React open source projects to contribute</li>
+   <li>Open for freelancing Opportunities,Dm me on WhatsApp,0796440427</li>
+  <li></li>
+</div>
 
 
 <!--
