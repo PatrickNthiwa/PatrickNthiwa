@@ -1,7 +1,6 @@
 <div style="text-align:center;">
   <h2 align="center" dir="auto">Hi there,😄 am Patrick Wambua.</h2>
 </div>
- <hr>
 <div style="text-align:center;">
   <h3  dir="auto">I'm a  passionate Software Developer and the Founder of Amaya Africa.</h3>
 </div>
@@ -18,6 +17,7 @@
 &nbsp;
 
  <hr>
+  <h4> 🤔 My Day.</h4>
 <!-- ![images (1)](https://user-images.githubusercontent.com/102645955/192634086-37652080-c5dc-4ce7-94cf-8d9c476dab1d.png) -->
 <div>
   <li>⚡ Working on Laravel Projects</li>
@@ -29,7 +29,7 @@
 &nbsp;
  
  <hr>
- <h4> <li>🤔 Explore my profiles</li></h4>
+ <h4> 🤔 Explore my profiles.</h4>
  &nbsp;
  &nbsp;
 <p align="center" dir="auto">
@@ -52,7 +52,7 @@
 
  <hr>
 <div style="text-align:center;">
- <h4> <li>🤔 Languages</li></h4>
+ <h4> 🤔 Languages.</h4>
 </div>
 <p align="center"dir="auto"><a href="https://www.youtube.com/playlist?list=PLRA4oeXUeKuSQBYulVLkGB7XMunn3OyY0" rel="nofollow"><img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" style="max-width: 100%;"></a>
 <a href="https://www.youtube.com/playlist?list=PLRA4oeXUeKuSQBYulVLkGB7XMunn3OyY0" rel="nofollow"><img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" style="max-width: 100%;"></a>
