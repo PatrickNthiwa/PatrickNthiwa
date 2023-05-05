@@ -55,7 +55,8 @@
 
 <div >
   <h3  dir="auto">I'm a  passionate Software Developer and the Founder of Amaya Africa.
-<img src="https://user-images.githubusercontent.com/102645955/236470824-acabcab4-ef44-40a3-a93c-8ec9c48cbc5a.png"></h3>
+<img src="https://user-images.githubusercontent.com/102645955/236472966-a751b605-79ca-47e5-a797-1af115c8dc58.png">
+</h3>
   
 </div>
 
