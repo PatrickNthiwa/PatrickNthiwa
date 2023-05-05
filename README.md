@@ -54,7 +54,8 @@
 &nbsp;
 
 <div style="text-align:center;">
-  <h3  dir="auto">I'm a  passionate Software Developer and the Founder of Amaya Africa.</h3> ![images (1)](https://user-images.githubusercontent.com/102645955/192634086-37652080-c5dc-4ce7-94cf-8d9c476dab1d.png) 
+  <h3  dir="auto">I'm a  passionate Software Developer and the Founder of Amaya Africa.</h3> 
+  ![images (1)](https://user-images.githubusercontent.com/102645955/192634086-37652080-c5dc-4ce7-94cf-8d9c476dab1d.png) 
 </div>
 <!--
 **PatrickNthiwa/PatrickNthiwa** is a ✨ _special_ ✨ repository because its `README.md`![images](https://user-images.githubusercontent.com/102645955/192632515-749815f6-2f27-48f8-8240-7e892edd9003.png)
