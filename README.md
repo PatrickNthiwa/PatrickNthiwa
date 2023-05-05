@@ -1,9 +1,10 @@
-<div style="margin:0 auto; text-align:center;">
+<div style="text-align:center;">
   <h3>Hi there, am Patrick Wambua.</h3>
 </div>
-<div style="margin:0 auto; text-align:center;">
+<div style="text-align:center;">
   <h4>A Fullstack Web Developer.</h4>
 </div>
+
 
  
 <!-- ![images (1)](https://user-images.githubusercontent.com/102645955/192634086-37652080-c5dc-4ce7-94cf-8d9c476dab1d.png) -->
