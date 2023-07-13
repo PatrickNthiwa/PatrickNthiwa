@@ -2,7 +2,7 @@
   <h2 align="center" dir="auto">Hi there,😄 am Patrick Nthiwa.</h2>
 </div>
 <div style="text-align:center;">
-  <h3  dir="auto">I'm a  passionate Software Developer and the Founder of GrayLock Foundation.</h3>
+  <h3  dir="auto">I'm a  passionate Software Developer and the Founder of Amaya Foundation.</h3>
 </div>
 
 <div align="center">&nbsp;
