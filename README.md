@@ -3,7 +3,6 @@
   <h2>Hi there <span class="wave">👋🏾</span>, am Patrick Nthiwa.</h2>
 </div>
 &nbsp;
-&nbsp;
   <h4>My Day.</h4>
 <!-- ![images (1)](https://user-images.githubusercontent.com/102645955/192634086-37652080-c5dc-4ce7-94cf-8d9c476dab1d.png) -->
 <div>
@@ -73,27 +72,3 @@
   
   
   
-  
-<!--
-**PatrickNthiwa/PatrickNthiwa** is a ✨ _special_ ✨ repository because its `README.md`![images](https://user-images.githubusercontent.com/102645955/192632515-749815f6-2f27-48f8-8240-7e892edd9003.png)
- (this file) appears on your GitHub profile.
-
-    <a href="" rel="nofollow">
-  <img src="https://camo.githubusercontent.com/5d03c86f6a75f7cbe80d135d9162fbf6dc46a31253cf30a8e9bb8279b4d574d3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f547769747465722d3144413146323f7374796c653d666f722d7468652d6261646765266c6f676f3d74776974746572266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&amp;logo=twitter&amp;logoColor=white" style="max-width: 100%;">
-  </a>
-  
-  
-  ![alt text](https://user-images.githubusercontent.com/102645955/236470824-acabcab4-ef44-40a3-a93c-8ec9c48cbc5a.png)
- 
-
-Here are some ideas to get you started:
-
-
--  I’m currently learning ...
--I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
--  Ask me about ...
-- 📫 How to reach me: ...
--  Pronouns: ...
--  Fun fact: ...
--->
