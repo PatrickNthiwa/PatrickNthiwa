@@ -1,18 +1,6 @@
 <div style="text-align:center;">
-  <h2 align="center" dir="auto">Hi there,😄 am Patrick Nthiwa.</h2>
+  <h2>Hi there,😄 am Patrick Nthiwa.</h2>
 </div>
-<div style="text-align:center;">
-  <h3  dir="auto">I'm a  passionate Software Developer and the Founder of Amaya Foundation.</h3>
-</div>
-
-<div align="center">&nbsp;
-&nbsp;
-<img src="https://user-images.githubusercontent.com/102645955/236472966-a751b605-79ca-47e5-a797-1af115c8dc58.png">
-</h3>
-  
-</div>
-
-
 &nbsp;
 &nbsp;
   <h4>My Day.</h4>
