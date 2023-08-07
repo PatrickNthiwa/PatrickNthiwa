@@ -1,5 +1,5 @@
 <div style="text-align:center;">
-  <h2>Hi there,:wave: am Patrick Nthiwa.</h2>
+  <h2>Hi there <span class="wave">👋🏾</span>, am Patrick Nthiwa.</h2>
 </div>
 &nbsp;
 &nbsp;
