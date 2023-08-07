@@ -3,7 +3,7 @@
   <h2>Hi there <span class="wave">👋🏾</span>, am Patrick Nthiwa.</h2>
 </div>
 &nbsp;
-  <h4>My Day.</h4>
+  <h3>My Day.</h3>
 <!-- ![images (1)](https://user-images.githubusercontent.com/102645955/192634086-37652080-c5dc-4ce7-94cf-8d9c476dab1d.png) -->
 <div>
   <li>⚡ Working on Laravel Projects</li>
@@ -14,7 +14,7 @@
 &nbsp;
 &nbsp;
 
- <h4>Explore my profiles.</h4>
+ <h3>Socials.</h3>
  &nbsp;
  &nbsp;
 <p >
@@ -36,7 +36,7 @@
 &nbsp;
 
 <div style="text-align:center;">
- <h4>Languages.</h4>
+ <h3>Languages.</h3>
 </div>
 <p align="center"dir="auto"><a href="https://www.youtube.com/playlist?list=PLRA4oeXUeKuSQBYulVLkGB7XMunn3OyY0" rel="nofollow"><img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" style="max-width: 100%;"></a>
 <a href="https://www.youtube.com/playlist?list=PLRA4oeXUeKuSQBYulVLkGB7XMunn3OyY0" rel="nofollow"><img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" style="max-width: 100%;"></a>
