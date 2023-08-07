@@ -1,4 +1,5 @@
-<div style="text-align:center;.wave {
+<style>
+  .wave {
   animation-name: wave-animation;  /* Refers to the name of your @keyframes element below */
   animation-duration: 2.5s;        /* Change to speed up or slow down */
   animation-iteration-count: infinite;  /* Never stop waving :) */
@@ -16,7 +17,8 @@
    60% { transform: rotate( 0.0deg) }  /* Reset for the last half to pause */
   100% { transform: rotate( 0.0deg) }
 }
-">
+</style>
+<div style="text-align:center;">
   <h2>Hi there <span class="wave">👋🏾</span>, am Patrick Nthiwa.</h2>
 </div>
 &nbsp;
