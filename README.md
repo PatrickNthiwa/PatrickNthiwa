@@ -2,7 +2,7 @@
 <div style="text-align:center;">
   <h2>Hi there <span class="wave">👋🏾</span>, am Patrick Nthiwa.</h2>
 </div>
-&nbsp;
+
   <h3>My Day.</h3>
 <!-- ![images (1)](https://user-images.githubusercontent.com/102645955/192634086-37652080-c5dc-4ce7-94cf-8d9c476dab1d.png) -->
 <div>
@@ -11,11 +11,11 @@
    <li> 👯  Looking for laravel.php.Javascript amd React open source projects to contribute</li>
    <li> 💬 Open for freelancing Opportunities,Dm me on WhatsApp,0796440427</li>
 </div>
-&nbsp;
+
 
 
  <h3>Socials.</h3>
- &nbsp;
+
 
 <p >
   <a href="https://github.com/PatrickNthiwa" rel="nofollow">
@@ -33,7 +33,6 @@
 <p></p>
 
 
-&nbsp;
 
 <div style="text-align:center;">
  <h3>Languages.</h3>
